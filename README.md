@@ -1,75 +1,79 @@
-# Nuxt 3 Minimal Starter
+# 🗺 Cat Facts
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<h1 align="center">
+   <a href="https://nuxt.com" target="_blank" rel="noopener">Nuxt.JS</a> | <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue.JS</a> 
+</h1>
 
-## Setup
+<p align="center">
+  <img alt="Develop by" src="https://img.shields.io/badge/Develop%20&%20Made%20by-Juniel-blue?style=flat&logo=Awesome-Lists">
+  <img alt="GitHub last commit" src="https://img.shields.io/badge/Made%20with-TypeScript-1f425f.svg?logo=typescript">
+</p>
 
-Make sure to install the dependencies:
+<h3 align="center">
+  <a href="#-about">About the project</a>
+  <span> · </span>
+  <a href="#-technologies-used">Technologies used</a>
+  <span> · </span>
+  <a href="#-first-steps">First steps</a>
+  <span> · </span>
+  <a href="#-design-patterns">Design Patterns</a>
+</h3>
 
-```bash
-# npm
-npm install
+## 💭 About
 
-# pnpm
-pnpm install
+The code consists of a web application that allows you to generate facts about cats, the application was developed with the aim of practicing the concepts of `Vue.JS`, `Nuxt.JS`, `TypeScript`, `Vitest`, `Tailwindcss`, `Vite.JS`.
 
-# yarn
-yarn install
+---
 
-# bun
-bun install
+## 👨‍💻 Tecnologias Utilizadas
+
+- <a href="https://nuxt.com" target="_blank" rel="noopener">Nuxt.JS</a>;
+- <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue.JS</a>;
+- <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">TypeScript</a>;
+- <a href="https://vitest.dev/" target="_blank" rel="noopener">Vitest</a>;
+- <a href="https://tailwindcss.com/" target="_blank" rel="noopener">Tailwindcss</a>;
+- <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite.JS</a>;
+
+---
+
+## ⁉ First steps
+
+### 🤔 Prerequisites
+
+To be able to use the project and contribute to it, simply follow the instructions below:
+
+- **<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a>** is **REQUIRED** to run this project and it is **RECOMMENDED** to use the LTS version.
+- **<a href="https://www.npmjs.com/" target="_blank" rel="noopener">NPM</a>** or **<a href="https://yarnpkg.com/" target="_blank" rel="noopener">Yarn</a>** are **REQUIRED** for managing application packages.
+- **<a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a>** is **REQUIRED** for project version control.
+
+---
+
+### 📝 Step by step
+
+First clone the repository on your computer, through the terminal using the command:
+
+1. Cloning the repository
+
+```sh
+  # Cloning the repository
+  $ git clone https://github.com/juniel-filappi/project-cat.git
+  # Enter the application root folder
+  $ cd project-cat
 ```
 
-## Development Server
+2. Starting the Project
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+```sh
+  # Install web application dependencies
+  $ yarn
+  # Run the command below to start the project
+  $ yarn dev
 ```
+---
+## 💯 Design Patterns
 
-## Production
+- SOLID
 
-Build the application for production:
+---
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<sup> Made with 💙 by 👾<a href="https://github.com/juniel-filappi/" target="_blank" rel="noopener">Juniel</a> ® 2024.</sup>
